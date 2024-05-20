@@ -1,4 +1,4 @@
-![alt text](https://github.com/JEmmanuelOR350/Masker/blob/974dab0d83b844fe0df67a7968561e13450d48e0/src/Masker.png)
+![alt text]([https://github.com/JEmmanuelOR350/Masker/blob/974dab0d83b844fe0df67a7968561e13450d48e0/src/Masker.png](https://github.com/JEmmanuelOR350/Masker/blob/973bdc3c3c0c7bdfc3965cf550f34748b8c53d60/src/Proyecto%20nuevo.png))
 # Masker Application
 
 This repository contains the code for the Masker application, which includes a Flask API for image processing and a Tkinter frontend for interacting with the application. Follow the steps below to set up and run both components of the application.
